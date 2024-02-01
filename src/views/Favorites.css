@@ -1,0 +1,13 @@
+.image_favorites {
+        width: 300px;
+        height: 300px;
+        cursor: pointer;
+        border: solid springgreen;
+        display: flex;
+        align-items: flex-end;
+}
+.text_box {
+    color: hsl(123, 78%, 95%);;
+    margin: 0.5rem;
+    float: left;
+}

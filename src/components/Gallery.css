@@ -1,0 +1,5 @@
+.text_box {
+    color: hsl(0, 0%, 100%);;
+    margin: 0.5rem;
+    display: inline-block;
+}
